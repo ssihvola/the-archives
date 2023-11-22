@@ -2,11 +2,13 @@
 
 - kaikkea obskuuria paskaa
 
-- runoutta, kuvakaappauksia, tapahtumien kuvia, internetkulttuuria, kaikkea mikä minua kiinnostaa
+- runoutta, kuvakaappauksia, tapahtumien kuvia, internetkulttuuria, videoita, performansseja, kaikkea mikä minua kiinnostaa
+
+- pitäisi olla helposti ylläpidettävä, mutta toisaalta myös ylläpitämisen tulee olla motivoivaa aka haastavaa
 
 - sivuston rakenne: blogi?
 
-- aws:ltä palvelintilaa?
+- aws:ltä palvelintilaa? siinä vaiheessa kun amazon menee nurin on varmaankin muitakin ongelmia
 
 - tarvitaanko cms:ä vai mennäänkö vaikeimman kautta?
 
