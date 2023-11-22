@@ -4,6 +4,8 @@
 
 - runoutta, kuvakaappauksia, tapahtumien kuvia, internetkulttuuria, videoita, performansseja, kaikkea mikä minua kiinnostaa
 
+- internetissä vuosikymmenten ajan, myös kuolemani jälkeen
+
 - pitäisi olla helposti ylläpidettävä, mutta toisaalta myös ylläpitämisen tulee olla motivoivaa aka haastavaa
 
 - sivuston rakenne: blogi?
